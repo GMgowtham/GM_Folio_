@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GM_Folio_/static/css/main.bf538fe7.css",
+    "main.js": "/GM_Folio_/static/js/main.5cefbf3c.js",
+    "static/media/HeroImage.jpg": "/GM_Folio_/static/media/HeroImage.b0426293e2e0c51228b4.jpg",
+    "static/media/ats1.png": "/GM_Folio_/static/media/ats1.7f697b352a8e77de7586.png",
+    "index.html": "/GM_Folio_/index.html",
+    "main.bf538fe7.css.map": "/GM_Folio_/static/css/main.bf538fe7.css.map",
+    "main.5cefbf3c.js.map": "/GM_Folio_/static/js/main.5cefbf3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.5cefbf3c.js"
+  ]
+}
